@@ -33,7 +33,7 @@ Frida problem
 
 [Mobile Application Penetration Testing Course](https://insectechs.usefedora.com/courses/13447/lectures/203729)
 
-[Mobile application secure coding guidelines](https://drive.google.com/open?id=19lNBNiERqKDaBi-i3NdFi0nHmRepXZXW)
+[Mobile application secure coding guidelines](https://drive.google.com/open?id=19lNBNiERqKDaBi-i3NdFi0nHmRepXZXW) (The original source cannot reach now. So, I upload and share from my Google Drive)
 
 [Mobile App Pentest Testing Check List](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet/blob/master/MobileApp_Checklist_2017.xlsx)
 
