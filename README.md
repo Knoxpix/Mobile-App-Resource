@@ -1,7 +1,6 @@
 # Mobile Application Penetration Test and consulting for secure coding
 
 ## Example
-
 [Dynamic analysis of iOS apps without Jailbreak](https://medium.com/@ansjdnakjdnajkd/dynamic-analysis-of-ios-apps-wo-jailbreak-1481ab3020d8)
 
 [Hacking Android Apps Through Exposed Components](https://appsec-labs.com/portal/hacking-android-apps-through-exposed-components/)
@@ -13,10 +12,7 @@
 [A walk through the Damn Vulnerable Hybrid Mobile App (DVHMA)](https://medium.com/@viyatb/a-walk-through-the-damn-vulnerable-hybrid-mobile-app-dvhma-e25c5d609508)
 
 ## Tool
-
 [Automated Mobile Application Scanning](https://geekflare.com/mobile-app-security-scanner/)
-
-[Open Android Security Assessment Methodology](https://github.com/b66l/OASAM)
 
 [Most Important Mobile Application Penetration Testing Cheat sheet with Tools & Resources for Security Professionals](https://gbhackers.com/mobile-application-penetration-testing/)
 
@@ -26,13 +22,14 @@ Fix Frida problem
 - When you run frida-server but frida-ps cannot connect via USB. you have to check version of client and server that is the same or not. If the client version is below server version, you will got error "Failed to enumerate applications: unable to communicate with remote frida-server; please ensure that major versions match and that the remote Frida has the feature you are trying to use"
 
 ## Course
-
 [Mobile Application Penetration Testing Course](https://insectechs.usefedora.com/courses/13447/lectures/203729)
 
 [Mobile Application Security and Penetration Testing - MASPT](https://www.elearnsecurity.com/course/mobile_application_security_and_penetration_testing/)
 
 ## Checklist and document
 [Mobile AppSec Verification](https://www.owasp.org/images/6/61/MASVS_v0.9.4.pdf)
+
+[Open Android Security Assessment Methodology](https://github.com/b66l/OASAM)
 
 [iOS Client-Side Attacks and Tests](https://appsec-labs.com/ios-attacks-tests/)
 
