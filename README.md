@@ -22,7 +22,7 @@
 
 [Most usable tools for iOS penetration testing](https://github.com/ansjdnakjdnajkd/iOS)
 
-Frida problem
+Fix Frida problem
 - When you run frida-server but frida-ps cannot connect via USB. you have to check version of client and server that is the same or not. If the client version is below server version, you will got error "Failed to enumerate applications: unable to communicate with remote frida-server; please ensure that major versions match and that the remote Frida has the feature you are trying to use"
 
 ## Course
